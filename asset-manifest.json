@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RBAC-UI/static/css/main.e6c13ad2.css",
+    "main.js": "/RBAC-UI/static/js/main.3b0602db.js",
+    "static/js/453.54e48043.chunk.js": "/RBAC-UI/static/js/453.54e48043.chunk.js",
+    "index.html": "/RBAC-UI/index.html",
+    "main.e6c13ad2.css.map": "/RBAC-UI/static/css/main.e6c13ad2.css.map",
+    "main.3b0602db.js.map": "/RBAC-UI/static/js/main.3b0602db.js.map",
+    "453.54e48043.chunk.js.map": "/RBAC-UI/static/js/453.54e48043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b0602db.js"
+  ]
+}
